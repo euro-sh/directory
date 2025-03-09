@@ -1,0 +1,56 @@
+{
+    "slug": "hetzner",
+    "name": "Hetzner",
+    "logo": "https://www.hetzner.com/themes/hetzner/images/logo-en.svg",
+    "location": "Germany",
+    "description": "Reliable European cloud provider specializing in affordable dedicated servers and cloud solutions.",
+    "longDescription": "Hetzner is a leading European cloud and dedicated hosting provider offering reliable and cost-effective infrastructure solutions. With data centers primarily located in Germany and Finland, Hetzner ensures optimal data security, high availability, and full GDPR compliance. Its services include dedicated servers, cloud computing, managed Kubernetes clusters, storage solutions, and comprehensive networking capabilities.",
+    "tags": ["cloud", "dedicated servers", "kubernetes", "storage", "networking"],
+    "categories": ["Cloud Infrastructure", "Dedicated Servers", "Data Storage"],
+    "compliance": ["ISO27001", "GDPR"],
+    "products": ["Dedicated Servers", "Hetzner Cloud", "Managed Kubernetes", "Storage Boxes", "Colocation"],
+    "datacenters": ["Falkenstein", "Nuremberg", "Helsinki"],
+    "features": [
+      "Affordable dedicated servers",
+      "Scalable cloud computing",
+      "Managed Kubernetes clusters",
+      "Secure storage solutions",
+      "High-performance networking",
+      "DDoS protection"
+    ],
+    "website": "https://www.hetzner.com",
+    "github": "https://github.com/hetznercloud",
+    "email": "support@hetzner.com",
+    "phone": "+49 9831 505-0",
+    "productDetails": [
+      {
+        "name": "Dedicated Servers",
+        "icon": "server",
+        "description": "High-quality dedicated servers for maximum performance and security.",
+        "features": ["Customizable hardware", "Root access", "High-speed connectivity"]
+      },
+      {
+        "name": "Hetzner Cloud",
+        "icon": "cloud",
+        "description": "Fast and scalable virtual servers with flexible resource allocation.",
+        "features": ["Rapid deployment", "Flexible sizing", "Automated backups"]
+      },
+      {
+        "name": "Storage Boxes",
+        "icon": "database",
+        "description": "Robust and secure cloud storage solutions with high availability.",
+        "features": ["FTP and SMB access", "Snapshot backups", "Encrypted storage"]
+      },
+      {
+        "name": "Colocation",
+        "icon": "rack",
+        "description": "Professional colocation services offering secure and reliable hosting environments.",
+        "features": ["Private racks", "Redundant power", "Advanced cooling systems"]
+      }
+    ],
+    "famousCustomers": [
+      {"name": "BMW", "logo": "/placeholder.svg?height=80&width=80"},
+      {"name": "Zalando", "logo": "/placeholder.svg?height=80&width=80"}
+    ]
+  }
+  

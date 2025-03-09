@@ -1,0 +1,35 @@
+name: Update Providers Index
+
+on:
+  push:
+    paths:
+      - 'providers/**/*.json'
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Generate JSON Index
+        run: |
+          mkdir -p dist
+          jq -s '[.[] | {
+              slug: .id,
+              name: .name,
+              logo: (.logo // ""),
+              location: (.headquarters // ""),
+              description: (.description // ""),
+              categories: (.categories // []),
+              compliance: (.certifications // []),
+              products: (.tags // [])
+          }]' providers/*.json > directory.json
+
+      - name: Commit and Push Index
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update providers index"

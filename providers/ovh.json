@@ -1,0 +1,64 @@
+{
+    "slug": "ovh",
+    "name": "OVHcloud",
+    "logo": "https://www.ovhcloud.com/sites/default/files/styles/medium/public/2021-03/logo-ovhcloud-blue-1.png",
+    "location": "France",
+    "description": "European cloud provider specializing in infrastructure and hosting solutions.",
+    "longDescription": "OVHcloud is one of Europe's leading cloud infrastructure providers, specializing in hosting, dedicated servers, managed Kubernetes, CDN, and DDoS protection. With numerous data centers across Europe, OVHcloud ensures data sovereignty and compliance with EU regulations. The platform is built on open standards, simplifying workload migration and integration.",
+    "tags": ["cloud", "mysql", "ddos", "cdn", "kubernetes", "gameserver"],
+    "categories": ["Cloud Infrastructure", "Hosting", "Data Storage"],
+    "compliance": ["ISO27001", "GDPR"],
+    "products": ["Dedicated Servers", "Managed Kubernetes", "Object Storage", "Public Cloud", "Web Hosting"],
+    "datacenters": ["Strasbourg", "Gravelines", "Roubaix", "Frankfurt", "Warsaw"],
+    "features": [
+      "Virtual machines with flexible sizing",
+      "Managed Kubernetes",
+      "Encrypted object and block storage",
+      "Virtual private cloud networks",
+      "Load balancing and auto-scaling",
+      "Firewall and DDoS protection"
+    ],
+    "website": "https://ovhcloud.com",
+    "github": "https://github.com/ovh",
+    "email": "support@ovhcloud.com",
+    "phone": "+49 681 906730",
+    "productDetails": [
+      {
+        "name": "Dedicated Servers",
+        "icon": "server",
+        "description": "Dedicated servers with flexible hardware configurations for demanding applications.",
+        "features": ["Dedicated hardware", "Flexible configurations", "High availability"],
+        "pricingInfo": "Starting at €40/month"
+      },
+      {
+        "name": "Managed Kubernetes",
+        "icon": "kubernetes",
+        "description": "Managed Kubernetes service for scalable container orchestration.",
+        "features": ["Auto-scaling", "Integrated monitoring", "Multi-cluster support"],
+        "pricingInfo": "From €0.09/hour per cluster"
+      },
+      {
+        "name": "Object Storage",
+        "icon": "database",
+        "description": "Scalable and secure object storage with high redundancy.",
+        "features": ["Scalable", "Highly redundant", "Encrypted data storage"]
+      },
+      {
+        "name": "Public Cloud",
+        "icon": "cloud",
+        "description": "Flexible public cloud infrastructure suitable for a variety of applications.",
+        "features": ["Hourly VMs", "Snapshots", "Automated backups"]
+      }
+    ],
+    "famousCustomers": [
+      {
+        "name": "Ubisoft",
+        "logo": "/placeholder.svg?height=80&width=80"
+      },
+      {
+        "name": "Decathlon",
+        "logo": "/placeholder.svg?height=80&width=80"
+      }
+    ]
+  }
+  

@@ -1,0 +1,56 @@
+{
+    "slug": "scaleway",
+    "name": "Scaleway",
+    "logo": "https://www.scaleway.com/assets/img/logos/scaleway-logo.svg",
+    "location": "France",
+    "description": "European cloud provider offering innovative cloud infrastructure solutions and managed services.",
+    "longDescription": "Scaleway is a leading European cloud provider delivering innovative infrastructure solutions including virtual instances, managed Kubernetes, object storage, serverless computing, and dedicated servers. With data centers located in France, Netherlands, and Poland, Scaleway is fully GDPR compliant and ensures robust data security and reliability. Scaleway emphasizes developer-friendly, sustainable, and cost-effective cloud services.",
+    "tags": ["cloud", "managed services", "kubernetes", "storage", "serverless"],
+    "categories": ["Cloud Infrastructure", "Managed Services", "Data Storage"],
+    "compliance": ["ISO27001", "GDPR"],
+    "products": ["Scaleway Cloud Instances", "Managed Kubernetes", "Object Storage", "Serverless Functions", "Bare Metal Servers"],
+    "datacenters": ["Paris", "Amsterdam", "Warsaw"],
+    "features": [
+      "Developer-friendly cloud infrastructure",
+      "Managed Kubernetes clusters",
+      "Scalable and secure storage solutions",
+      "Serverless computing",
+      "Comprehensive API and CLI tools",
+      "Eco-friendly and sustainable data centers"
+    ],
+    "website": "https://www.scaleway.com",
+    "github": "https://github.com/scaleway",
+    "email": "support@scaleway.com",
+    "phone": "+33 1 84 13 00 00",
+    "productDetails": [
+      {
+        "name": "Scaleway Elements",
+        "icon": "cloud",
+        "description": "High-performance virtual servers with rapid deployment and flexible configurations.",
+        "features": ["Instant deployment", "Flexible resources", "SSD Storage"]
+      },
+      {
+        "name": "Managed Kubernetes",
+        "icon": "kubernetes",
+        "description": "Fully managed Kubernetes service enabling simplified container management and scalability.",
+        "features": ["Auto-scaling", "Integrated monitoring", "Managed updates"]
+      },
+      {
+        "name": "Object Storage",
+        "icon": "database",
+        "description": "Highly scalable and secure object storage solution suitable for backups, archives, and cloud-native apps.",
+        "features": ["Unlimited storage", "Data encryption", "Redundant data centers"]
+      },
+      {
+        "name": "Serverless Functions",
+        "icon": "code",
+        "description": "Fully managed serverless computing platform for rapid development and deployment of functions and apps.",
+        "features": ["Event-driven functions", "Auto-scaling", "Seamless integrations"]
+      }
+    ],
+    "famousCustomers": [
+      {"name": "Le Monde", "logo": "/placeholder.svg?height=80&width=80"},
+      {"name": "Free", "logo": "/placeholder.svg?height=80&width=80"}
+    ]
+  }
+  
