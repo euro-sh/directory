@@ -17,7 +17,11 @@
       "Dedicated Servers",
       "Data Storage"
     ],
-    "compliance": [],
+    "compliance": [
+      "ISO27001",
+      "GDPR",
+      "KRITIS"
+    ],
     "products": [
       "cloud",
       "dedicated servers",
@@ -46,7 +50,10 @@
       "Hosting",
       "Data Storage"
     ],
-    "compliance": [],
+    "compliance": [
+      "ISO27001",
+      "GDPR"
+    ],
     "products": [
       "cloud",
       "mysql",
@@ -75,7 +82,10 @@
       "Managed Services",
       "Data Storage"
     ],
-    "compliance": [],
+    "compliance": [
+      "ISO27001",
+      "GDPR"
+    ],
     "products": [
       "cloud",
       "managed services",
