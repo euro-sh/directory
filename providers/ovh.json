@@ -1,7 +1,7 @@
 {
     "slug": "ovh",
     "name": "OVHcloud",
-    "logo": "https://www.ovhcloud.com/sites/default/files/styles/medium/public/2021-03/logo-ovhcloud-blue-1.png",
+    "logo": "https://corporate.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2022-03/ovhcloud-logo2.webp",
     "location": "France",
     "description": "European cloud provider specializing in infrastructure and hosting solutions.",
     "longDescription": "OVHcloud is one of Europe's leading cloud infrastructure providers, specializing in hosting, dedicated servers, managed Kubernetes, CDN, and DDoS protection. With numerous data centers across Europe, OVHcloud ensures data sovereignty and compliance with EU regulations. The platform is built on open standards, simplifying workload migration and integration.",
