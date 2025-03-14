@@ -7,7 +7,7 @@
     "longDescription": "Hetzner is a leading European cloud and dedicated hosting provider offering reliable and cost-effective infrastructure solutions. With data centers primarily located in Germany and Finland, Hetzner ensures optimal data security, high availability, and full GDPR compliance. Its services include dedicated servers, cloud computing, managed Kubernetes clusters, storage solutions, and comprehensive networking capabilities.",
     "tags": ["cloud", "dedicated servers", "kubernetes", "storage", "networking"],
     "categories": ["Cloud Infrastructure", "Dedicated Servers", "Data Storage"],
-    "compliance": ["ISO27001", "GDPR"],
+    "compliance": ["ISO27001", "GDPR", "KRITIS"],
     "products": ["Dedicated Servers", "Hetzner Cloud", "Managed Kubernetes", "Storage Boxes", "Colocation"],
     "datacenters": ["Falkenstein", "Nuremberg", "Helsinki"],
     "features": [
