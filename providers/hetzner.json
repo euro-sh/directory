@@ -1,7 +1,7 @@
 {
     "slug": "hetzner",
     "name": "Hetzner",
-    "logo": "https://www.hetzner.com/themes/hetzner/images/logo-en.svg",
+    "logo": "https://www.hetzner.com/_resources/themes/hetzner/images/logo/hetzner-logo.svg",
     "location": "Germany",
     "description": "Reliable European cloud provider specializing in affordable dedicated servers and cloud solutions.",
     "longDescription": "Hetzner is a leading European cloud and dedicated hosting provider offering reliable and cost-effective infrastructure solutions. With data centers primarily located in Germany and Finland, Hetzner ensures optimal data security, high availability, and full GDPR compliance. Its services include dedicated servers, cloud computing, managed Kubernetes clusters, storage solutions, and comprehensive networking capabilities.",
