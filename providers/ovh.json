@@ -5,7 +5,7 @@
     "location": "France",
     "description": "European cloud provider specializing in infrastructure and hosting solutions.",
     "longDescription": "OVHcloud is one of Europe's leading cloud infrastructure providers, specializing in hosting, dedicated servers, managed Kubernetes, CDN, and DDoS protection. With numerous data centers across Europe, OVHcloud ensures data sovereignty and compliance with EU regulations. The platform is built on open standards, simplifying workload migration and integration.",
-    "tags": ["cloud", "mysql", "ddos", "cdn", "kubernetes", "gameserver"],
+    "tags": ["cloud", "mysql", "ddos", "cdn", "kubernetes", "gameserver", "sap"],
     "categories": ["Cloud Infrastructure", "Hosting", "Data Storage"],
     "compliance": ["ISO27001", "GDPR"],
     "products": ["Dedicated Servers", "Managed Kubernetes", "Object Storage", "Public Cloud", "Web Hosting"],
