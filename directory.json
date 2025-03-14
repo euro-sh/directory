@@ -5,6 +5,13 @@
     "logo": "https://www.hetzner.com/themes/hetzner/images/logo-en.svg",
     "location": "",
     "description": "Reliable European cloud provider specializing in affordable dedicated servers and cloud solutions.",
+    "tags": [
+      "cloud",
+      "dedicated servers",
+      "kubernetes",
+      "storage",
+      "networking"
+    ],
     "categories": [
       "Cloud Infrastructure",
       "Dedicated Servers",
@@ -25,6 +32,15 @@
     "logo": "https://www.ovhcloud.com/sites/default/files/styles/medium/public/2021-03/logo-ovhcloud-blue-1.png",
     "location": "",
     "description": "European cloud provider specializing in infrastructure and hosting solutions.",
+    "tags": [
+      "cloud",
+      "mysql",
+      "ddos",
+      "cdn",
+      "kubernetes",
+      "gameserver",
+      "sap"
+    ],
     "categories": [
       "Cloud Infrastructure",
       "Hosting",
@@ -37,7 +53,8 @@
       "ddos",
       "cdn",
       "kubernetes",
-      "gameserver"
+      "gameserver",
+      "sap"
     ]
   },
   {
@@ -46,6 +63,13 @@
     "logo": "https://www.scaleway.com/assets/img/logos/scaleway-logo.svg",
     "location": "",
     "description": "European cloud provider offering innovative cloud infrastructure solutions and managed services.",
+    "tags": [
+      "cloud",
+      "managed services",
+      "kubernetes",
+      "storage",
+      "serverless"
+    ],
     "categories": [
       "Cloud Infrastructure",
       "Managed Services",
