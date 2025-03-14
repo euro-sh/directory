@@ -28,6 +28,7 @@ jobs:
               logo: (.logo // ""),
               location: (.headquarters // ""),
               description: (.description // ""),
+              tags: (.tags // []),
               categories: (.categories // []),
               compliance: (.certifications // []),
               products: (.tags // [])
