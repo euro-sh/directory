@@ -30,7 +30,7 @@ jobs:
               description: (.description // ""),
               tags: (.tags // []),
               categories: (.categories // []),
-              compliance: (.certifications // []),
+              compliance: (.compliance // []),
               products: (.tags // [])
           }]' providers/*.json > directory.json
 
