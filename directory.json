@@ -93,5 +93,35 @@
       "storage",
       "serverless"
     ]
+  },
+  {
+    "slug": null,
+    "name": "UpCloud",
+    "logo": "https://avatars.githubusercontent.com/u/11679135?s=280&v=4",
+    "location": "",
+    "description": "High-performance cloud hosting provider offering scalable virtual servers and reliable infrastructure solutions.",
+    "tags": [
+      "cloud",
+      "VPS",
+      "Kubernetes",
+      "storage",
+      "networking"
+    ],
+    "categories": [
+      "Cloud Infrastructure",
+      "Virtual Private Servers",
+      "Data Storage"
+    ],
+    "compliance": [
+      "ISO27001",
+      "GDPR"
+    ],
+    "products": [
+      "cloud",
+      "VPS",
+      "Kubernetes",
+      "storage",
+      "networking"
+    ]
   }
 ]
