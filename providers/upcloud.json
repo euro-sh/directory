@@ -1,0 +1,102 @@
+{
+  "slug": "upcloud",
+  "name": "UpCloud",
+  "logo": "https://avatars.githubusercontent.com/u/11679135?s=280&v=4",
+  "location": "Finland",
+  "description": "High-performance cloud hosting provider offering scalable virtual servers and reliable infrastructure solutions.",
+  "longDescription": "UpCloud is a European cloud infrastructure provider known for its high-performance, scalable, and reliable cloud services. Headquartered in Finland, UpCloud offers flexible virtual private servers, managed Kubernetes solutions, and robust storage services with a strong emphasis on performance and uptime. Fully GDPR compliant and ISO27001 certified, UpCloud ensures security, transparency, and compliance across its infrastructure.",
+  "tags": [
+    "cloud",
+    "VPS",
+    "Kubernetes",
+    "storage",
+    "networking"
+  ],
+  "categories": [
+    "Cloud Infrastructure",
+    "Virtual Private Servers",
+    "Data Storage"
+  ],
+  "compliance": [
+    "ISO27001",
+    "GDPR"
+  ],
+  "products": [
+    "Virtual Private Servers",
+    "Managed Kubernetes",
+    "Object Storage",
+    "Private Cloud"
+  ],
+  "datacenters": [
+    "Helsinki",
+    "Frankfurt",
+    "Amsterdam",
+    "London",
+    "Chicago",
+    "Singapore"
+  ],
+  "features": [
+    "High-performance virtual servers",
+    "Flexible scaling",
+    "Managed Kubernetes clusters",
+    "Reliable object storage",
+    "Advanced networking",
+    "24/7 technical support"
+  ],
+  "website": "https://upcloud.com",
+  "github": "https://github.com/upcloudltd",
+  "email": "support@upcloud.com",
+  "phone": "+358 9 4272 0661",
+  "productDetails": [
+    {
+      "name": "Virtual Private Servers",
+      "icon": "cloud",
+      "description": "Powerful, reliable virtual servers with flexible resource allocation and excellent performance.",
+      "features": [
+        "High IOPS storage",
+        "Flexible plans",
+        "Instant deployment"
+      ]
+    },
+    {
+      "name": "Managed Kubernetes",
+      "icon": "kubernetes",
+      "description": "Fully managed Kubernetes service for seamless container orchestration and deployment.",
+      "features": [
+        "Easy scaling",
+        "Automated management",
+        "Integrated monitoring"
+      ]
+    },
+    {
+      "name": "Object Storage",
+      "icon": "database",
+      "description": "Scalable and secure object storage designed for reliability and ease of access.",
+      "features": [
+        "S3 compatible",
+        "Redundant backups",
+        "Data encryption"
+      ]
+    },
+    {
+      "name": "Private Cloud",
+      "icon": "shield",
+      "description": "Tailored private cloud solutions for enterprises seeking enhanced control and security.",
+      "features": [
+        "Customizable infrastructure",
+        "Enhanced security",
+        "Dedicated resources"
+      ]
+    }
+  ],
+  "famousCustomers": [
+    {
+      "name": "Nokia",
+      "logo": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "name": "Rovio",
+      "logo": "/placeholder.svg?height=80&width=80"
+    }
+  ]
+}
